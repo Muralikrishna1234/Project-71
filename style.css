@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
